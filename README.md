@@ -3,6 +3,7 @@
 16/18 b
 
 Poznámky k úkolům:
+
 	Black Box Testing:
 		OK
 	White Box Testing:
@@ -10,6 +11,7 @@ Poznámky k úkolům:
 	Test Driven Development:
 		Došlo k úniku paměti.
 Detail k bodům:
+
 	Black Box Testing: 6
 	White Box Testing: 5.5
 	Test Driven Development: 4.5
